@@ -108,7 +108,7 @@ Scores are consistent across the low, medium and high income brackets (50.31 to 
 
 **Overall Customer Segmentation Dashboard:**
 
-![Customer segmentation dashboard](images/customer_segmentation_dashboard.png)
+![Customer segmentation dashboard](Customer_Segmentation_Dashboard.png)
 
 **Filtered to Under 18** (448 customers, R47.03k revenue):
 
