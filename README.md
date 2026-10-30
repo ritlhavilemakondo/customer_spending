@@ -108,7 +108,7 @@ Scores are consistent across the low, medium and high income brackets (50.31 to 
 
 **Overall Customer Segmentation Dashboard:**
 
-![Customer segmentation dashboard](images/Customer_Segmentation_Dashboard.png)
+![Customer segmentation dashboard](https://github.com/ritlhavilemakondo/customer_spending/blob/main/Customer-spending-analysis/images/Customer_Segmentation_Dashboard.png)
 
 **Filtered to Under 18** (448 customers, R47.03k revenue):
 
