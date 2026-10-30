@@ -112,11 +112,11 @@ Scores are consistent across the low, medium and high income brackets (50.31 to 
 
 **Filtered to Under 18** (448 customers, R47.03k revenue):
 
-![Under 18 dashboard](https://github.com/ritlhavilemakondo/customer_spending/blob/main/Customer-spending-analysis/images/dashboard_60plus.png)
+![Under 18 dashboard](https://github.com/ritlhavilemakondo/customer_spending/blob/main/Customer-spending-analysis/images/dashboard_under18.png)
 
 **Filtered to 60+** (41 customers, R3.93k revenue):
 
-![60+ dashboard](images/dashboard_60plus.png)
+![60+ dashboard](https://github.com/ritlhavilemakondo/customer_spending/blob/main/Customer-spending-analysis/images/dashboard_60plus.png)
 
 ---
 
